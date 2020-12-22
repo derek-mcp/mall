@@ -15,6 +15,9 @@
 		<module>order-server</module>
 		<module>product-server</module>
 		<module>ware-server</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+		<module>common-server</module>
 	</modules>
 
 </project>
