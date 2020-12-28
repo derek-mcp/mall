@@ -1,5 +1,5 @@
 server:
-  port: 5740
+  port: 50040
 spring:
   application:
     name: product-server
